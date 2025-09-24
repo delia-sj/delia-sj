@@ -1,7 +1,7 @@
 # Hello GitHub!
 
 ## About Me
-It's my first time using Github. I am learning one step at a time!
+I am a web development student at Mid University in Sweden. This is my first time using GitHub, and I’m learning one step at a time!
 
 ## How to contact me
 [My GitHub profile](https://github.com/delia-sj)
